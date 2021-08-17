@@ -1,2 +1,2 @@
-# Melody
-Учебный проект Glo Academy
+# Melody учебный проект Glo Academy
+## проект выполнила Наталья
